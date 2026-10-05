@@ -1,0 +1,11 @@
+{
+  "name": "cypress-lite",
+  "version": "1.0.0",
+  "description": "Framework de testes E2E leve, sem dependencias, inspirado no Cypress",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "node src/index.js"
+  },
+  "keywords": ["testing", "e2e", "cypress", "lite"],
+  "license": "MIT"
+}
